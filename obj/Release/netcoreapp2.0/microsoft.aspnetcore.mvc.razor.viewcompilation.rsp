@@ -1,0 +1,12 @@
+D:\azure\MyAzureWebApp\azureWebApp
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=azureWebApp
+--content-root=D:\azure\MyAzureWebApp\azureWebApp
+--file=D:\azure\MyAzureWebApp\azureWebApp\Views\Home\About.cshtml
+--file=D:\azure\MyAzureWebApp\azureWebApp\Views\Home\Contact.cshtml
+--file=D:\azure\MyAzureWebApp\azureWebApp\Views\Home\Index.cshtml
+--file=D:\azure\MyAzureWebApp\azureWebApp\Views\Shared\Error.cshtml
+--file=D:\azure\MyAzureWebApp\azureWebApp\Views\Shared\_Layout.cshtml
+--file=D:\azure\MyAzureWebApp\azureWebApp\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\azure\MyAzureWebApp\azureWebApp\Views\_ViewImports.cshtml
+--file=D:\azure\MyAzureWebApp\azureWebApp\Views\_ViewStart.cshtml

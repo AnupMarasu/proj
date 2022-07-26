@@ -1,0 +1,11 @@
+D:\azure\MyAzureWebApp\azureWebApp\bin\Release\netcoreapp2.0\azureWebApp.deps.json
+D:\azure\MyAzureWebApp\azureWebApp\bin\Release\netcoreapp2.0\azureWebApp.runtimeconfig.json
+D:\azure\MyAzureWebApp\azureWebApp\bin\Release\netcoreapp2.0\azureWebApp.runtimeconfig.dev.json
+D:\azure\MyAzureWebApp\azureWebApp\bin\Release\netcoreapp2.0\azureWebApp.dll
+D:\azure\MyAzureWebApp\azureWebApp\bin\Release\netcoreapp2.0\azureWebApp.pdb
+D:\azure\MyAzureWebApp\azureWebApp\obj\Release\netcoreapp2.0\azureWebApp.csprojResolveAssemblyReference.cache
+D:\azure\MyAzureWebApp\azureWebApp\obj\Release\netcoreapp2.0\azureWebApp.csproj.CoreCompileInputs.cache
+D:\azure\MyAzureWebApp\azureWebApp\obj\Release\netcoreapp2.0\azureWebApp.AssemblyInfoInputs.cache
+D:\azure\MyAzureWebApp\azureWebApp\obj\Release\netcoreapp2.0\azureWebApp.AssemblyInfo.cs
+D:\azure\MyAzureWebApp\azureWebApp\obj\Release\netcoreapp2.0\azureWebApp.dll
+D:\azure\MyAzureWebApp\azureWebApp\obj\Release\netcoreapp2.0\azureWebApp.pdb
